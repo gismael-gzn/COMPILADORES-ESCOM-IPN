@@ -1,0 +1,9 @@
+flex lexico.l && bison grama.y -d && cc *.c -lm -omain -w
+
+assign: ID '=' expr ';' ;
+
+declaration: type ID ';' {printf("type delcaration\n");}
+| type assign {printf("type delcaration\n");} ;
+
+expr: constant | expr '+' expr | expr '-' expr | expr '*' expr |
+expr '/' expr | expr '%' expr | "pow" '(' expr ',' expr ')' ;
