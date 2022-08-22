@@ -14,6 +14,6 @@ La siguiente lista corresponde a la numeración de las carptetas dentro del repo
 
 ### Clase con Enriquez Olvera
 
-En este repositorio se encuentran las prácticas generadas en el curso de teoría computacional con el profesor Enriquez Olvera (Código y reporte).
+En este repositorio se encuentran las prácticas generadas en el curso de compiladores con el profesor Enriquez Olvera (Código y reporte).
 
 Comparto este código con el fin de ayudarte si cursas Compis con este profe y necesitas una pequeña guía de como hacer tu práctica, o bien si necesitas una ayuda con algúno de los temas previamente mencionados.
